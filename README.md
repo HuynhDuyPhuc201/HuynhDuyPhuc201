@@ -3,7 +3,7 @@
 
 - 🔭 Freelance Job [BNASolutions](https://bnasolutions.com.vn/)
 
-- 🌱 I’m currently learning **TypeScript,.....**
+- 🌱 I am a Frontend Developer with a strong willingness to learn and adapt in any environment. My goal is to advance to a Team Lead position within the next 2-3 years, contributing to both technical excellence and team growth,.....**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
